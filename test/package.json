@@ -1,0 +1,11 @@
+{
+  "name": "testPlugin",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./testPlugin.ts"
+  },
+  "peerDependencies": {
+    "vite": "^6.3.3"
+  }
+}
